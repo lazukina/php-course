@@ -12,7 +12,7 @@
   <dl>
     <dt><strong>Ваш IP адрес:</strong></dt>
     <dd><en><?php print($_SERVER['REMOTE_ADDR']); ?></en></dd>
-
+<!-- stuff to do  -->
     <dt><strong></strong></dt>
 
   </dl>
