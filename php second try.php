@@ -12,7 +12,7 @@
   <dl>
     <dt><strong>Ваш IP адрес:</strong></dt>
     <dd><en><?php print($_SERVER['REMOTE_ADDR']); ?></en></dd>
-<!-- wonderfull-->
+<!-- maybe it's ssh-add-->
     <dt><strong></strong></dt>
 
   </dl>
